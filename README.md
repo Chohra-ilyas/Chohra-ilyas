@@ -82,3 +82,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chohra-ilyas&theme=tokyonight" alt="streak" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

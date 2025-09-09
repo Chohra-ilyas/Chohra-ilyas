@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chohra Ilyas</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58BEFE&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Chohra+Ilyas;I'm+a+Backend+Developer;This+is+my+GitHub" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">🚀 Passionate Backend Developer from Algeria</h3>
 
 <p align="center">

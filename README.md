@@ -2,16 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=58BEFE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chohra+Ilyas;I'm+a+Backend+Developer;This+is+my+GitHub" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Passionate Backend Developer from Algeria</h3>
+<h3 align="center">🚀 Passionate Full-stack Developer from Algeria</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chohra-ilyas&label=Profile%20views&color=58befe&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chohra-ilyas&theme=algolia&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
 </p>
 
 ---
